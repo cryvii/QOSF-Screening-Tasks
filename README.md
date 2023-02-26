@@ -1,6 +1,6 @@
 # QOSF-Screening-Tasks
 
-# Task 1. 
+# Task 1
 
 ### Rough Flowchart of the Code. 
 
