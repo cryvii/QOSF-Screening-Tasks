@@ -1,6 +1,7 @@
 # QOSF-Screening-Tasks
 
-# Task 1
+# Task 1 - Find the largest number
+You have two integers, either positive or negative, and the challenge is to generate a quantum algorithm that returns which is the larger number. Consider an appropriate number of qubits and explain why your proposal is valid for all kinds of numbers in case you have an infinite number of qubits.![image](https://user-images.githubusercontent.com/107764031/221427895-8ef38f92-2942-4bdb-9384-0652a9fa94ad.png)
 
 ### Rough Flowchart of the Code. 
 
